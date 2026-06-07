@@ -1,12 +1,23 @@
- SiDi Tool Ultraschall
+ # SiDi Tool Ultraschall
 
-Support- und Informationsseite für SiDi Tool Ultraschall.
+Digitale Unterstützung zur Erstellung, Prüfung und Archivierung generischer Sicherheitsdispositive für Ultraschall- und Messarbeiten im Bahnbereich.
 
-## Kontakt
-Bei Fragen oder Rückmeldungen bitte direkt an den Herausgeber.
+## Support
+Für Fragen, Rückmeldungen oder Testzugänge bitte direkt an den Herausgeber wenden.
 
 ## Datenschutz
-Die App verarbeitet nur die vorgesehenen Eingaben innerhalb der Anwendung.
+Die App speichert und verarbeitet nur die vorgesehenen Eingaben innerhalb der Anwendung.
+
+Es erfolgt keine automatische fachliche Freigabe von Sicherheitsdispositiven.
 
 ## Hinweise
-Die App dient als digitale Unterstützung und ersetzt keine fachliche Prüfung.
+SiDi Tool dient als digitale Unterstützung.
+
+Die Verantwortung für fachliche Prüfung, Reglementkonformität und Freigabe bleibt bei den berechtigten Anwendern.
+
+## Version
+Aktueller interner Teststand:
+Build 20 (TestFlight)
+
+## Status
+Aktuell in interner Testphase.
