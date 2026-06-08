@@ -5,6 +5,7 @@ Digitale Unterstützung zur Erstellung, Prüfung und Archivierung generischer Si
 
 ## Support
 Für Fragen, Rückmeldungen oder Testzugänge bitte direkt an den Herausgeber wenden.
+Support erfolgt ausschliesslich für berechtigte Test- und Einsatzbenutzer.
 
 ## Datenschutz
 Die App speichert und verarbeitet nur die vorgesehenen Eingaben innerhalb der Anwendung.
@@ -19,6 +20,7 @@ Die Verantwortung für fachliche Prüfung, Reglementkonformität und Freigabe bl
 ## Version
 Aktueller interner Teststand:
 Build 20 (TestFlight)
+Letzte Aktualisierung: Juni 2026
 
 ## Status
 Aktuell in interner Testphase.
