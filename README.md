@@ -5,12 +5,18 @@ Digitale Unterstützung zur Erstellung, Prüfung und Archivierung generischer Si
 
 ## Support
 Für Fragen, Rückmeldungen oder Testzugänge bitte direkt an den Herausgeber wenden.
+
 Support erfolgt ausschliesslich für berechtigte Test- und Einsatzbenutzer.
+
+Antworten erfolgen nach Verfügbarkeit.
 
 ## Datenschutz
 Die App speichert und verarbeitet nur die vorgesehenen Eingaben innerhalb der Anwendung.
 
 Es erfolgt keine automatische fachliche Freigabe von Sicherheitsdispositiven.
+Es werden keine Daten an Dritte verkauft.
+
+Die Verantwortung für die erfassten Inhalte liegt beim jeweiligen Benutzer.
 
 ## Hinweise
 SiDi Tool dient als digitale Unterstützung.
