@@ -24,3 +24,17 @@ Letzte Aktualisierung: Juni 2026
 
 ## Status
 Aktuell in interner Testphase.
+
+## Dokumente
+
+- Support / Datenschutz:
+https://gleissafe.github.io/gleissafe-info/
+
+- Release Vorbereitung:
+app-store-vorbereitung.md
+
+---
+
+Stand: Interne Testphase (Build 20)
+Verteilung: TestFlight
+Ziel: Unlisted App
