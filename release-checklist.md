@@ -13,9 +13,9 @@
 
 ## Vor App Store Connect
 
-- [ ] App Icon final prüfen
-- [ ] iPad Screenshots erstellen
-- [ ] iPhone Screenshots erstellen
+- [x] App Icon final prüfen
+- [x] iPad Screenshots erstellen
+- [ ] iPhone Screenshots (nicht vergessen - iPhone dient nur Entwicklung/Test)
 - [ ] Datenschutzangaben in App Store Connect ausfüllen
 - [ ] Support-URL eintragen
 - [ ] Datenschutz-URL eintragen
